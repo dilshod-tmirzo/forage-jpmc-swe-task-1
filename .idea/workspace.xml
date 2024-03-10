@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5648cb7f-9470-4dc5-bb19-0fb93e249d65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/client3.py" beforeDir="false" afterPath="$PROJECT_DIR$/client3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/client_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -33,6 +41,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for client_test.ClientTest.test_getDataPoint_avePriceFail.executor": "Debug",
+    "Python tests.Python tests for client_test.ClientTest.test_getDataPoint_calculatePrice.executor": "Debug",
+    "Python tests.Python tests for client_test.ClientTest.test_getRatio_whenSuccess.executor": "Debug",
+    "Python tests.Python tests in client_test.py.executor": "Debug",
     "Python.client3.executor": "Run",
     "Python.server3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -42,7 +54,7 @@
     "last_opened_file_path": "D:/Study/Careers/JPMC/FORAGE/forage-jpmc-swe-task-1"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.client3">
+  <component name="RunManager" selected="Python tests.Python tests for client_test.ClientTest.test_getRatio_whenSuccess">
     <configuration name="client3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="forage-jpmc-swe-task-1" />
       <option name="ENV_FILES" value="" />
@@ -87,10 +99,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for client_test.ClientTest.test_getDataPoint_avePriceFail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="forage-jpmc-swe-task-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;client_test.ClientTest.test_getDataPoint_avePriceFail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for client_test.ClientTest.test_getDataPoint_calculatePrice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="forage-jpmc-swe-task-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;client_test.ClientTest.test_getDataPoint_calculatePrice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for client_test.ClientTest.test_getRatio_whenSuccess" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="forage-jpmc-swe-task-1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;client_test.ClientTest.test_getRatio_whenSuccess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for client_test.ClientTest.test_getRatio_whenSuccess" />
         <item itemvalue="Python.client3" />
         <item itemvalue="Python.server3" />
+        <item itemvalue="Python tests.Python tests for client_test.ClientTest.test_getDataPoint_avePriceFail" />
+        <item itemvalue="Python tests.Python tests for client_test.ClientTest.test_getDataPoint_calculatePrice" />
       </list>
     </recent_temporary>
   </component>
@@ -134,5 +194,36 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/client_test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/client3.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/client3.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/client3.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/server3.py</url>
+          <line>336</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
